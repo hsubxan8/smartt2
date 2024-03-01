@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="channel1" tvg-name="Channel 1" tvg-logo="http://example.com/channel1_logo.png" group-title="Group 1", Channel 1
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="channel2" tvg-name="Channel 2" tvg-logo="http://example.com/channel2_logo.png" group-title="Group 1", Channel 2
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1709327363/ei/o-_hZdOiDZ6x6dsP7NyL2Aw/ip/141.101.76.79/id/zmFaUZwKVF4.1/itag/91/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D139/sgovp/gir%3Dyes%3Bitag%3D160/rqh/1/hls_chunk_host/rr4---sn-51uxax3vh-ta8z.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/nl/spc/UWF9f6HzpT9HXh7aME8Jml6hQWzYSxw9IjbaDsVdQSWLKlXdINiJ_pTX3w/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/397500/mh/Jn/mip/212.47.145.230/mm/44/mn/sn-51uxax3vh-ta8z/ms/lva/mv/m/mvi/4/pl/22/rmhost/rr5---sn-51uxax3vh-ta8z.googlevideo.com/smhost/rr2---sn-51uxax3vh-ta8l.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1709305485/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRQIgXE4lwfPj1ltyHpddEWHKnnyut3271GYKcbrHiVSlCWgCIQDf9RjMe41pmTKfShAOuckeDYdNxovftr7S_J1bfTA1bg%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl,rmhost,smhost/lsig/APTiJQcwRgIhAI8MTyno5ys3bnyJoe5Kmqe0e9DvP-NJ27Ts0RrKRhX9AiEAi6PcyArbCqWNmNiHQdnpmSwcOnSX7hKyOGDc0tT2rOw%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="channel3" tvg-name="Channel 3" tvg-logo="http://example.com/channel3_logo.png" group-title="Group 2", Channel 3
+https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
